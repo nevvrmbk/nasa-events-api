@@ -97,7 +97,3 @@ async function reminder(limit) {
         });
     }
 }
-
-fetch("", {
-    body: ""
-})
